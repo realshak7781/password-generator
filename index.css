@@ -1,0 +1,62 @@
+.bodyArea{
+    background-color: #FAD018;
+    
+}
+
+.container{
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    background-color: #FAD018;
+}
+
+body{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.generate{
+    color: #FAEC91;
+    font-family: 'Ubuntu', sans-serif;
+font-family: 'Varela Round', sans-serif;
+font-size: 3rem;
+padding-bottom: 15px;
+}
+
+.random{
+    color: #000000;
+    font-family: 'Ubuntu', sans-serif;
+font-family: 'Varela Round', sans-serif;
+font-size: 3rem; 
+padding-bottom: 30px; 
+text-decoration: underline;
+}
+
+.input{
+    padding-bottom: 15px;  
+}
+
+.input input{
+    height: 50px;
+    width: 620px;
+    border-radius: 11px;
+   font-size: 30px;
+   border-color: rgb(135, 149, 149);
+   box-shadow:inset;
+}
+
+.button button{
+    height: 40px;
+    width: 300px;
+    background-color: #DB7A58;
+    border-radius: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.2rem;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+
